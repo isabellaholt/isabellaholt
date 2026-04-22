@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**isabellaholt/isabellaholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **isabellaholt**, a staff engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Always learning new things
+- 📫 Reach me through GitHub
+- 🎯 Goal: ship something useful every week
+- 🤔 Exploring new technologies
+
+## Tech
+
+`Gin` `Ansible` `Protobuf`
+
+---
+
+_Vscode addict._
